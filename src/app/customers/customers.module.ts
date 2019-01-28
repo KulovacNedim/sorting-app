@@ -3,10 +3,11 @@ import { NgModule } from '@angular/core';
 
 import { CustomersComponent } from './customers.component';
 import { CustomersListComponent } from './customers-list/customers-list.component';
+import { FilterTextboxComponent } from './customers-list/filter-text.component';
 
 @NgModule({
   imports: [CommonModule],
-  declarations: [CustomersComponent, CustomersListComponent],
+  declarations: [CustomersComponent, CustomersListComponent, FilterTextboxComponent],
   exports: [ CustomersComponent ]
 })
 export class CustomersModule { }
