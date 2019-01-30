@@ -1,4 +1,4 @@
-# SortingApp
+# SortingApp - [reference](https://scrimba.com/p/pQxesM/ce4baHb)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
